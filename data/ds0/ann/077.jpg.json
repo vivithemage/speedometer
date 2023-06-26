@@ -1,0 +1,94 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1440,
+        "width": 2560
+    },
+    "objects": [
+        {
+            "id": 1353227501,
+            "classId": 11649105,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vivithemage",
+            "createdAt": "2023-06-18T13:12:11.663Z",
+            "updatedAt": "2023-06-26T20:25:05.425Z",
+            "tags": [],
+            "classTitle": "speedometer",
+            "points": {
+                "exterior": [
+                    [
+                        1040,
+                        892
+                    ],
+                    [
+                        1158,
+                        1026
+                    ]
+                ],
+                "interior": []
+            }
+        },
+        {
+            "id": 1362122595,
+            "classId": 11659229,
+            "description": "",
+            "geometryType": "polygon",
+            "labelerLogin": "vivithemage",
+            "createdAt": "2023-06-26T20:24:16.108Z",
+            "updatedAt": "2023-06-26T20:25:07.567Z",
+            "tags": [],
+            "classTitle": "speedometermask",
+            "points": {
+                "exterior": [
+                    [
+                        1057,
+                        904
+                    ],
+                    [
+                        1114,
+                        889
+                    ],
+                    [
+                        1158,
+                        916
+                    ],
+                    [
+                        1160,
+                        949
+                    ],
+                    [
+                        1150,
+                        996
+                    ],
+                    [
+                        1137,
+                        1018
+                    ],
+                    [
+                        1082,
+                        1020
+                    ],
+                    [
+                        1052,
+                        1004
+                    ],
+                    [
+                        1039,
+                        969
+                    ],
+                    [
+                        1038,
+                        939
+                    ],
+                    [
+                        1045,
+                        922
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

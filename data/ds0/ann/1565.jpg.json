@@ -1,0 +1,34 @@
+{
+    "description": "",
+    "tags": [],
+    "size": {
+        "height": 1440,
+        "width": 2560
+    },
+    "objects": [
+        {
+            "id": 1353227521,
+            "classId": 11649105,
+            "description": "",
+            "geometryType": "rectangle",
+            "labelerLogin": "vivithemage",
+            "createdAt": "2023-06-18T13:13:35.981Z",
+            "updatedAt": "2023-06-18T13:13:44.400Z",
+            "tags": [],
+            "classTitle": "speedometer",
+            "points": {
+                "exterior": [
+                    [
+                        934,
+                        1076
+                    ],
+                    [
+                        1083,
+                        1228
+                    ]
+                ],
+                "interior": []
+            }
+        }
+    ]
+}

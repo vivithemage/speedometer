@@ -1,0 +1,22 @@
+{
+    "classes": [
+        {
+            "title": "speedometermask",
+            "shape": "polygon",
+            "color": "#96E47C",
+            "geometry_config": {},
+            "id": 11659229,
+            "hotkey": ""
+        },
+        {
+            "title": "speedometer",
+            "shape": "rectangle",
+            "color": "#8BDAC7",
+            "geometry_config": {},
+            "id": 11649105,
+            "hotkey": ""
+        }
+    ],
+    "tags": [],
+    "projectType": "images"
+}
